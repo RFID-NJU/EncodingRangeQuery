@@ -1,7 +1,6 @@
 # Introduction
 
-This project is the code for paper: Encoding based Range Detection in Commodity
-RFID Systems (INFOCOM2022).
+This project is the code for paper: **Encoding based Range Detection in Commodity RFID Systems (INFOCOM2022)**.
 
 
 
